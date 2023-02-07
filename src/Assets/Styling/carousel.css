@@ -1,0 +1,17 @@
+.carousels img {
+  border-radius: 30px;
+}
+.projectAbout {
+  position: relative;
+  top: 40px;
+  padding-top: 30px;
+  right: 113px;
+  width: 730px;
+  height: 150px;
+  border-radius: 30px;
+  transition: 0.25s all ease-in;
+}
+
+.carousels:hover .projectAbout {
+  background-color: rgba(24, 21, 21, 0.558);
+}

@@ -1,0 +1,33 @@
+.contact {
+  display: flex;
+  width: 300px;
+}
+.phonepic {
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+}
+.gmailpic {
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+}
+.contact p {
+  display: flex;
+  padding-left: 0px;
+}
+.contact img {
+  margin-right: 10px;
+}
+.contact p span {
+  padding-left: 5px;
+}
+.gitpic {
+  background-color: transparent;
+  height: 30px;
+  border-radius: 50%;
+}
+.gitLink {
+  text-decoration: none;
+  color: cadetblue;
+}

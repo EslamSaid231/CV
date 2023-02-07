@@ -1,0 +1,17 @@
+.profilephoto {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.leftContainer {
+  background-color: #202024;
+  border-radius: 30px;
+  margin-left: 30px;
+  width: "400px";
+}
+
+.languages {
+  display: flex;
+  width: auto;
+  justify-content: center;
+}

@@ -1,0 +1,12 @@
+.progressBars {
+  display: flex;
+  width: inherit;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.progressBar {
+  width: 80px;
+  margin: 20px;
+  color: red;
+}
