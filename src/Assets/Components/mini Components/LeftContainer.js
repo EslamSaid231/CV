@@ -39,13 +39,13 @@ const LeftContainer = ({
           }}
         >
           <h4 className="flex " style={{ marginLeft: "0.5rem" }}>
-            Residency: <span style={{ marginLeft: "5.8rem" }}>{residency}</span>
+            Residency: <span style={{ marginLeft: "9.5rem" }}>{residency}</span>
           </h4>
           <h4 className=" ml3" style={{ marginLeft: "0.5rem" }}>
-            City: <span style={{ marginLeft: "9.5rem" }}>{city}</span>
+            City: <span style={{ marginLeft: "13.5rem" }}>{city}</span>
           </h4>
           <h4 className=" ml3" style={{ marginLeft: "0.5rem" }}>
-            Age: <span style={{ marginLeft: "9.5rem" }}>{age}</span>
+            Age: <span style={{ marginLeft: "14rem" }}>{age}</span>
           </h4>
         </div>
         <div className="languages" style={{ display: "block" }}>
