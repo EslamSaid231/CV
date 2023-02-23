@@ -3,7 +3,7 @@ import Skills from "./Skills";
 import "../../Styling/RightContainer.css";
 const RightContainer = () => {
   return (
-    <div className="rightContainerStyle  db tc content-center">
+    <div className="rightContainerStyle  db tc content-center shadow-2">
       <div>
         <h2 className="flex">Skills</h2>
       </div>

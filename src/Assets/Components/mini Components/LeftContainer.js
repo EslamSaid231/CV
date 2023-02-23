@@ -17,7 +17,7 @@ const LeftContainer = ({
 }) => {
   return (
     <div
-      className="db tc leftContainer content-center"
+      className="db tc leftContainer content-center shadow-2"
       style={{ width: "360px" }}
     >
       <div className="db tc justify-center">

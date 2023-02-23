@@ -2,7 +2,7 @@ import React from "react";
 
 const About = ({ title, paragraph }) => {
   return (
-    <div className="db ml2 mr2 mt3">
+    <div className="db ml2 mr2 mt3 shadow-2">
       <h2 className="flex ml3 ">{title} :</h2>
       <hr />
       <div
